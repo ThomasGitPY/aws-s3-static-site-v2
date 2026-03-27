@@ -23,3 +23,8 @@ This project is a rebuilt version of a static website hosted on AWS S3, created 
 ## Live Site
 
 [View Website](http://aws-static-site-v2-thomas.s3-website-us-west-1.amazonaws.com/)
+
+
+## Screenshot
+
+![Project Screenshot](aws-s3-V2)
