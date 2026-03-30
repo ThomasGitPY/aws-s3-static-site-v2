@@ -28,4 +28,8 @@ This project is a rebuilt version of a static website hosted on AWS S3, created 
 ## Screenshot
 ![Project Screenshot](aws-s3-V2.png)
 
+## IAM Setup
+- Created IAM role for EC2
+- Attached AmazonS3ReadOnlyAccess policy
+- Linked role to EC2 instance
 
