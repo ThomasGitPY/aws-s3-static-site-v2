@@ -47,3 +47,4 @@ EC2 Public IP:
 ## Why this project matters
 
 This project demonstrates a progression from simple static hosting to a more realistic cloud workflow using compute, networking, permissions, version control, automation, and containers.
+This project simulates a real-world deployment workflow from local development to a live cloud-hosted application.
